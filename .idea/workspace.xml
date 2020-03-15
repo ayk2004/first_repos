@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7589ff7b-25d5-4fd0-b4d3-6e6ed5de1c4c" name="Default Changelist" comment="" />
+    <list default="true" id="7589ff7b-25d5-4fd0-b4d3-6e6ed5de1c4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad1.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z6ibt9Qo7LOW2hFchEkPDoZiWR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -125,9 +129,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584177348981" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584271882408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584271882408" />
   </component>
 </project>
