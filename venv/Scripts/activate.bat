@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\ayk204\Pyton\14.03.2020\venv
+set VIRTUAL_ENV=D:\ayk204\DzPyt\16.01.2021\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
